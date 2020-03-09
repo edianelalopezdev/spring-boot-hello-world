@@ -1,4 +1,4 @@
-package com.edianelalopez.springboothelloworld;
+package com.edianelalopezdev.springboothelloworld;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -8,7 +8,7 @@
 		<version>2.2.5.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.edianelalopez</groupId>
+	<groupId>com.edianelalopezdev</groupId>
 	<artifactId>spring-boot-hello-world</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-hello-world</name>

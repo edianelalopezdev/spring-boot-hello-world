@@ -1,4 +1,4 @@
-package com.edianelalopez.springboothelloworld;
+package com.edianelalopezdev.springboothelloworld;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
